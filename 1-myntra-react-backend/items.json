@@ -10,7 +10,8 @@
       "discount_percentage": 42,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 4.5, "count": 1400 }
+      "rating": { "stars": 4.5, "count": 1400 },
+      "type": ["WOMEN", "BEAUTY"]
     },
     {
       "id": "002",
@@ -22,7 +23,8 @@
       "discount_percentage": 42,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 4.3, "count": 24 }
+      "rating": { "stars": 4.3, "count": 24 },
+      "type": ["WOMEN"]
     },
     {
       "id": "003",
@@ -34,7 +36,8 @@
       "discount_percentage": 69,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 4.1, "count": 249 }
+      "rating": { "stars": 4.1, "count": 249 },
+      "type": ["WOMEN"]
     },
     {
       "id": "004",
@@ -46,7 +49,8 @@
       "discount_percentage": 0,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 5, "count": 10 }
+      "rating": { "stars": 5, "count": 10 },
+      "type": ["MEN"]
     },
     {
       "id": "005",
@@ -58,7 +62,8 @@
       "discount_percentage": 65,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 4.2, "count": 3500 }
+      "rating": { "stars": 4.2, "count": 3500 },
+      "type": ["MEN"]
     },
     {
       "id": "006",
@@ -70,7 +75,8 @@
       "discount_percentage": 0,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 0, "count": 0 }
+      "rating": { "stars": 0, "count": 0 },
+      "type": ["MEN", "BEAUTY"]
     },
     {
       "id": "007",
@@ -80,7 +86,8 @@
       "original_price": 1599,
       "current_price": 639,
       "discount_percentage": 60,
-      "rating": { "stars": 4.2, "count": 388 }
+      "rating": { "stars": 4.2, "count": 388 },
+      "type": ["MEN", "BEAUTY"]
     },
     {
       "id": "008",
@@ -92,7 +99,8 @@
       "discount_percentage": 50,
       "return_period": 14,
       "delivery_date": "10 Oct 2023",
-      "rating": { "stars": 4.2, "count": 5200 }
+      "rating": { "stars": 4.2, "count": 5200 },
+      "type": ["MEN", "BEAUTY"]
     }
   ]
 }

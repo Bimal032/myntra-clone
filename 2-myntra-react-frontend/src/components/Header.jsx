@@ -20,11 +20,11 @@ const Header = () => {
         </Link>
       </div>
       <nav className="nav_bar">
-        <a href="#">Men</a>
-        <a href="#">Women</a>
+        <Link to="/men">Men</Link>
+        <Link to="/women">Women</Link>
         <a href="#">Kids</a>
         <a href="#">Home & Living</a>
-        <a href="#">Beauty</a>
+        <Link to="/beauty">Beauty</Link>
         <a href="#">
           Studio <sup>New</sup>
         </a>
